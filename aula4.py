@@ -1,4 +1,4 @@
-# Comparadores no pyhon
+# Comparadores no python
 # > maior que
 # < menor que
 # >= maior ou igual
